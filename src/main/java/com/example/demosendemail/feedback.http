@@ -1,0 +1,9 @@
+POST http://localhost:3306/feedback
+Content-Type: application/json
+{
+ "name" : "Dan",
+ "email" : "dan@gmail.com",
+ "feedback" : "Hi there"
+}
+
+###
